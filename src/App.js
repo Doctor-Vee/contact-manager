@@ -30,7 +30,6 @@ function App() {
               <Route exact path="/test" component={Test} />
               <Route component={NotFound} />
             </Switch>
-
           </div>
         </div>
       </Router>
